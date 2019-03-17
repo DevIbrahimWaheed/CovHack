@@ -1,4 +1,4 @@
-var c_size = 450; // github page problem sorted
+var c_size = 550; // github page problem sorted
 
 var tw = 75; // tile width
 var n = 4;
