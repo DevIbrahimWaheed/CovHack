@@ -14,7 +14,7 @@ function Game() {
 
 
 	this.getrand = function() {
-		return Math.random() < 0.7 ?  -Math.floor((Math.random() * (n + 2)) + 1) : Math.floor((Math.random() * (n + 1)) + 1);
+		return Math.random() < 0.2 ?  -Math.floor((Math.random() * (n + 2)) + 1) : Math.floor((Math.random() * (n + 1)) + 1);
 	}
 
 	this.getrandrow = function() {
